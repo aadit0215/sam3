@@ -16,7 +16,7 @@
 <p align='center'>
    <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/aadit0215"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/Adit Tya"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+   <a href="https://www.facebook.com/profile.php?id=100013324898123"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
 </P>
 
 ## Information
@@ -33,7 +33,7 @@ If you find some bugs please contact the WhatsApp number on Contact
 
 - [TELEGRAM](https://t.me/rkmiyo)
 - [WHATSAPP](https://wa.me/6285774142551)
-- [MY BOT](wa.me/1(854) 777-9739)
+- [MY BOT](wa.me/18547779739)
 - [WHATSAPP GROUP](https://chat.whatsapp.com/EJE2KGE6GOrKcJIESi7s0x)
 
 ## APIKEY
@@ -47,9 +47,10 @@ Apikey Location
 - [FUNCTION](https://github.com/aadit0215/sam3/blob/a6252b0ee6ec754d25d71061d7989d86fc54a19e/lib/functions.js#L11)
 
 ## Donate
-- [Saweria](https://saweria.co/ItzTobz)
-- [Dana](https://link.dana.id/qr/17mlqta)
+- [Dana](https://link.dana.id/qr/30p9wfbp)
 - [ovo] 085774142551
+- [pulsa] 085774142551
+- [gopay] 085774142551
 
 ## Getting Started
 
