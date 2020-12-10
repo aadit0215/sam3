@@ -5,7 +5,7 @@
 <a href="#"><img title="FAJAR BOT" src="https://img.shields.io/badge/FAJAR BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/aadit0215"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/aadit0215"><img title="Author" src="https://img.shields.io/badge/Author-Fajar sam-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/aadit0215/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
@@ -15,8 +15,8 @@
 </p>
 <p align='center'>
    <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+   <a href="https://instagram.com/aadit0215"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/Adit Tya"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
 </P>
 
 ## Information
@@ -33,8 +33,8 @@ If you find some bugs please contact the WhatsApp number on Contact
 
 - [TELEGRAM](https://t.me/rkmiyo)
 - [WHATSAPP](https://wa.me/6285774142551)
-- [MY BOT](wa.me/-)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/JuwROWyZh70Gn8rrmtReyu)
+- [MY BOT](wa.me/1(854) 777-9739)
+- [WHATSAPP GROUP](https://chat.whatsapp.com/EJE2KGE6GOrKcJIESi7s0x)
 
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
@@ -49,6 +49,7 @@ Apikey Location
 ## Donate
 - [Saweria](https://saweria.co/ItzTobz)
 - [Dana](https://link.dana.id/qr/17mlqta)
+- [ovo] 085774142551
 
 ## Getting Started
 
