@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="ELAINA BOT" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="FAJAR BOT" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TobyG74"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
@@ -22,18 +22,18 @@
 ## Information
 
 - [Cara Penginstallan Bot](https://youtu.be/41Xj_Kg4DCM)
-- Change [ownerNumber](https://github.com/TobyG74/ElainaBOT/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
+- Change [ownerNumber](https://github.com/aadit0215/sam3/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
 ownerNumber = "6213xxxxxx@c.us"
-- Change [adminNumber](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/admin.json#L1) in admin.json to be your number
+- Change [adminNumber](https://github.com/aadit0215/sam3/blob/main/lib/database/admin.json#L1) in admin.json to be your number
 [] -> ["62813xxxxxx@c.us"]
 
 ## Contact
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
+- [TELEGRAM](https://t.me/rkmiyo)
+- [WHATSAPP](https://wa.me/6285774142551)
+- [MY BOT](wa.me/-)
 - [WHATSAPP GROUP](https://chat.whatsapp.com/JuwROWyZh70Gn8rrmtReyu)
 
 ## APIKEY
@@ -42,9 +42,9 @@ Open setting.js then edit & paste it in YOUR_APIKEY
 - [MHANKBARBAR](https://mhankbarbar.herokuapp.com/api)
 
 Apikey Location
-- [SETTING](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/setting.json)
-- [FETCHER](https://github.com/TobyG74/ElainaBOT/blob/8ea2130f24132647feea3ff61dc09466fe91b19e/lib/fetcher.js#L6)
-- [FUNCTION](https://github.com/TobyG74/ElainaBOT/blob/a6252b0ee6ec754d25d71061d7989d86fc54a19e/lib/functions.js#L11)
+- [SETTING](https://github.com/aadit0215/sam3/blob/main/lib/database/setting.json)
+- [FETCHER](https://github.com/aadit0215/sam3/blob/8ea2130f24132647feea3ff61dc09466fe91b19e/lib/fetcher.js#L6)
+- [FUNCTION](https://github.com/aadit0215/sam3/blob/a6252b0ee6ec754d25d71061d7989d86fc54a19e/lib/functions.js#L11)
 
 ## Donate
 - [Saweria](https://saweria.co/ItzTobz)
@@ -63,8 +63,8 @@ This is a Bot Group Type, so you have to enter the bot into a group in order to 
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> git clone https://github.com/aadit0215/sam3
+> cd sam3
 ```
 
 Install the dependencies:
@@ -101,7 +101,7 @@ after running it you need to scan the qr
 
 ### License
 
-- [Apache License 2.0](https://github.com/TobyG74/ElainaBOT/blob/main/LICENSE)
+- [Apache License 2.0](https://github.com/aadit0215/sam3/blob/main/LICENSE)
 
 ---
 ## 120+ Feature
@@ -258,5 +258,6 @@ Fix Stuck on linux, install google chrome stable:
 <li>https://github.com/MhankBarBar/whatsapp-bot<br>
 <li>https://github.com/ItzNgga/wa-bot<br>
 <li>https://github.com/Gimenz<br>
+<li>https://github.com/Toby674<br>
 <li>https://github.com/ArugaZ/whatsapp-bot<br>
 </li>
